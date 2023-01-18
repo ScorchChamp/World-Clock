@@ -9,11 +9,14 @@
     margin: 10px;
     width: 10em;
     font-weight: 100;
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 15px;
 }
 .time {
     font-size: 125%;
     margin: 10px;
-    font-weight: 500;
+    font-weight: 800;
 }
 
 .own-timezone {

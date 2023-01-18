@@ -1,0 +1,22 @@
+.timezone-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+.timezone-item {
+    text-align: center;
+    margin: 10px;
+    width: 10em;
+    font-weight: 100;
+}
+.time {
+    font-size: 125%;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.own-timezone {
+    font-size: 200%;
+    font-weight: 900;
+}
